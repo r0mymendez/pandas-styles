@@ -4,12 +4,12 @@ In the following section of this article, we will explore a method to add colors
 
 ---
 
-<center>
-<img src="img/pandas_tables.png" height="80%" width="80%">
+<p align="center">
+  <img src="img/pandas_tables.png" height="80%" width="80%" alt="Pandas Tables Image">
+</p>
 
-image generated using [partyrock](https://partyrock.aws/)
+<p align="center">Image generated using <a href="https://partyrock.aws/">partyrock</a></p>
 
-</center>
 
 ----
 
@@ -19,9 +19,10 @@ Therefore, Pandas Styler provides an intuitive and flexible interface for applyi
 
 ---
 
-<center>
-<img src="img/pandas_style.jpg" height="80%" width="80%">
-</center>
+<p align="center">
+  <img src="img/pandas_style.jpg" height="80%" width="80%">
+</p>
+
 
 ----
 
