@@ -1,6 +1,6 @@
 #  Transform your Pandas Dataframes: Styles, 🎨 Colors, and 😎 Emojis
 
-In the following section of this article, we will explore a method to add colors and styles to Pandas DataFrames. Our focus will be on the application of colors and emojis, utilizing approaches similar to the popular conditional formatting commonly employed in pivot tables within spreadsheets. Through this strategy, we aim to enhance the presentation of our data, making the exploration and understanding of information not only informative but also visually appealing
+In this repository, we will explore a method to add colors and styles to Pandas DataFrames. Our focus will be on the application of colors and emojis, utilizing approaches similar to the popular conditional formatting commonly employed in pivot tables within spreadsheets. Through this strategy, we aim to enhance the presentation of our data, making the exploration and understanding of information not only informative but also visually appealing
 
 ---
 
